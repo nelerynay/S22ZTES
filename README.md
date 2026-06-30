@@ -1,2 +1,2 @@
 # S22ZTES
-3D model and roblox model of Daikin S22ZTES
+"emulating" real life S22ZTES onto roblox
