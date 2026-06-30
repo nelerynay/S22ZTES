@@ -2,7 +2,16 @@
 "emulating" real life S22ZTES onto roblox
 
 ## version of development
-REVISION 1 (Jan 2026)
+### REVISION 0 (Jun 2025 - Jan 2026)
+- Reshaped Indoor
+- added 3 indicator light for OP/STREAMER/TIME
+- added POWERV
+- added RECEIV
+- added STREAMER
+- redesigned remote control
+- added LIGHT0
+
+### REVISION 1 (Jan 2026 - present)
 - added temperature control for indoor
 - added Wi-Fi integration with BRP069B45 modem
 - added outlet with switch (pw on/off)
